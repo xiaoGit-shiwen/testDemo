@@ -1,7 +1,9 @@
 <template>
+  <div>
   <div id="bardv" ref="chart"></div>
+  <h1>你好</h1>
+  </div>
 </template>
-
 <script>
 /* // 引入基本模板
 let echarts = require('echarts/lib/echarts')
